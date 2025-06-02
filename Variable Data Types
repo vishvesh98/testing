@@ -1,0 +1,15 @@
+public class Variables {
+    public static void main(String[] args) {
+        int number = 10;
+        double pi = 3.14;
+        char letter = 'A';
+        boolean isJavaFun = true;
+        String message = "Java is cool!";
+        
+        System.out.println(number);
+        System.out.println(pi);
+        System.out.println(letter);
+        System.out.println(isJavaFun);
+        System.out.println(message);
+    }
+}
